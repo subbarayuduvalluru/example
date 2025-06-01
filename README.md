@@ -1,3 +1,3 @@
 # example
 Example repo
-trying to lear about git hub
+trying to learn about git hub
